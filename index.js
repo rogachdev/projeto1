@@ -7,6 +7,7 @@ var __importDefault =
 
 // TODO: setar as intents da condicional
 // FIXME: ALTEREI AQUI.......
+// FIXME: ELTEREI AQUI TAMBÉM ...........
 const funcWelcome = require("./dialogflow/intent/welcome");
 const funcLocalizacao = require('./dialogflow/intent/Intent_localizacao')
 
